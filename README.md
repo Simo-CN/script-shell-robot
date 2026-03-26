@@ -158,4 +158,4 @@ display interface brief
 
 ## 📄 许可证
 
-MIT License
+仅参考学习、交流使用，禁止商用
